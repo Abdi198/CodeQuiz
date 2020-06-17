@@ -18,14 +18,8 @@ document.getElementById("btn1").addEventListener("click", function(){
 	choice.innerText = questions[currentQuestion].Choices[i]
 	document.getElementById("questionArea").appendChild(choice)
 	
-	if () {
-		
+
 	}
-	
-	
-	}
-	
-	
 	
 });
 
