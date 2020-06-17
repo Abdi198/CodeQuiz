@@ -18,7 +18,9 @@ document.getElementById("btn1").addEventListener("click", function(){
 	choice.innerText = questions[currentQuestion].Choices[i]
 	document.getElementById("questionArea").appendChild(choice)
 	
-	
+	if () {
+		
+	}
 	
 	
 	}
@@ -65,7 +67,7 @@ var questions = [
 		Answer: "var carName;()"
 	},
 
-function goToNextQuestion === Answer
+
 
 ]
 //if answer is correct move on to the next question
